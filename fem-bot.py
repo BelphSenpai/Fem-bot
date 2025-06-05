@@ -1,5 +1,4 @@
 import os
-from docx import Document
 from context import context, prompt_context
 from openai import OpenAI
 
